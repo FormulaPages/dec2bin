@@ -2,6 +2,7 @@ import parseNumber from 'formula-parsenumber';
 import REPT from 'formula-rept';
 import error from 'formula-errors';
 
+// based on https://github.com/sutoiku/formula.js/blob/master/lib/engineering.js
 export default function DEC2BIN(number, places) {
 
   number = parseNumber(number);
