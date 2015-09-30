@@ -1,0 +1,25 @@
+{
+  "name": "formula-dec2bin",
+  "version": "1.0.0",
+  "description": "DEC2BIN function",
+  "main": "DEC2BIN.js",
+  "scripts": {
+    "test": "mocha test",
+    "build": "babel DEC2BIN.es6 -m umd --out-file DEC2BIN.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormulaPages/dec2bin.git"
+  },
+  "author": "Peter Moresi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FormulaPages/dec2bin/issues"
+  },
+  "homepage": "https://github.com/FormulaPages/dec2bin#readme",
+  "dependencies": {
+    "formula-errors": "^1.0.1",
+    "formula-parsenumber": "^1.0.2",
+    "formula-rept": "^1.0.0"
+  }
+}
