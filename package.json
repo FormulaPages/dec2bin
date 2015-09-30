@@ -1,6 +1,6 @@
 {
   "name": "formula-dec2bin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "DEC2BIN function",
   "main": "DEC2BIN.js",
   "scripts": {
@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/FormulaPages/dec2bin#readme",
   "dependencies": {
-    "formula-errors": "^1.0.1",
-    "formula-parsenumber": "^1.0.2",
+    "formula-errors": "^1.0.2",
+    "formula-parsenumber": "^1.0.3",
     "formula-rept": "^1.0.0"
   }
 }
