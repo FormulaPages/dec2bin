@@ -1,6 +1,6 @@
 # dec2bin
 
-![circleci](https://circleci.com/gh/FormulaPages/dec2bin.svg?style=shield&circle-token=:circle-token)
+[![Build Status](https://travis-ci.org/FormulaPages/dec2bin.svg?branch=master)](https://travis-ci.org/FormulaPages/dec2bin)
 
 
 ## Install
